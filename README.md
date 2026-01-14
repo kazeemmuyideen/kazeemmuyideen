@@ -1,9 +1,9 @@
 ##   Hi, there 👋
 #    About me
 - 💞️ I'm Muyideen :man:
-- 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ... JavaScript
-- :computer: I’m looking to collaborate on ... :grinning: Anything collaboratable
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently learning ... Anthing Learnable
+- :computer: I’m looking to collaborate on ... :grinning: Anything collaboratable {Halaal}
 - :smile: Pronouns: ...He/Him/His
 # How to reach me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://https://twitter.com/KazeemMuyideen/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazeem-muyideen-9301a1173/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https;//kazeemmuyideen@gmail.com)
