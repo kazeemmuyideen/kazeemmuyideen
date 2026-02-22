@@ -1,17 +1,74 @@
-##   Hi, there 👋
-#    About me
-- 💞️ I'm Muyideen :man:
-- 👀 I’m a Software Engineer
-- 🌱 I’m currently learning ... Anthing Learnable
-- :computer: I’m looking to collaborate on ... :grinning: Anything collaboratable {Halaal}
-- :smile: Pronouns: ...He/Him/His
-# How to reach me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://https://twitter.com/KazeemMuyideen/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazeem-muyideen-9301a1173/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https;//kazeemmuyideen@gmail.com)
+
+<!-- icons-->
+<p align="center">
+    <a href="https://github.com/kazeemmuyideen/kazeemmuyideen"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/kazeemmuyideen/kazeemmuyideen/graphs/contributors"><img src="https://img.shields.io/github/contributors/AdemuyiwaHassan/AdemuyiwaHassan?color=blue"></a>
+    <a href="https://github.com/kazeemmuyideen/kazeemmuyideen/stargazers"><img src="https://img.shields.io/github/stars/AdemuyiwaHassan/AdemuyiwaHassan.svg?logo=github"></a>
+    <a href="https://github.com/kazeemmuyideen/kazeemmuyideen/network/members"><img src="https://img.shields.io/github/forks/AdemuyiwaHassan/AdemuyiwaHassan.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AdemuyiwaHassan.AdemuyiwaHassan" alt="visitors"/>
+    
+</p>
+
+ <h1 align="center">
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+there+👋,+I+am+Muyideen+Kazeem;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+ </h1>
+ <div align="center">
+    
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/kazeemmuyideen.png" alt="TryHackMe Badge">
 
 
 
 
-# Tech stack
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+</div>
+<!-- social -->
+<div align="center">
+    <a href="mailto:kazeemmuyideen@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+    <a href="https://www.linkedin.com/in/muyideen1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+
+  
+</div>
+<h2 align="center">🛠️Languages-Frameworks-Tools🛠️</h2> <br/>
+<div align="center">
+    
+
+<a href="https://skillicons.dev" >
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,typescript,jest,mongodb,postgres,git"/>
+     <img src="https://skillicons.dev/icons?i=github,c,vscode,html,css,azure,docker,wordpress,java,springboot,dart,flutter,"/>
+</a>
+</div>
+<hr/>
+<!-- contribution -->
+<h2 align="center"> 🐍Contributions 🐍</h2>
+<!--   GitHub stats graph -->
 
 
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/kazeemmuyideen/kazeemmuyideen/output/github-contribution-grid-snake.svg)
+
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![my github stats](https://github-readme-stats.vercel.app/api?username=AdemuyiwaHassan&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kazeemmuyideen&theme=radical&layout=compact) |
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kazeemmuyideen"></img>
+
+
+<!--
+**AdemuyiwaHassan/AdemuyiwaHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
