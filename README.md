@@ -52,7 +52,9 @@
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![my github stats](https://github-readme-stats.vercel.app/api?username=kazeemmuyideen&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kazeemmuyideen&theme=radical&layout=compact) |
+| ![Quiec's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazeemmuyideen&show_icons=true&theme=github_dark&cache_seconds=86400)
+ | ![Quiec's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazeemmuyideen&show_icons=true)
+ |
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazeemmuyideen"></img>
