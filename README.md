@@ -2,10 +2,10 @@
 <!-- icons-->
 <p align="center">
     <a href="https://github.com/kazeemmuyideen/kazeemmuyideen"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/kazeemmuyideen/kazeemmuyideen/graphs/contributors"><img src="https://img.shields.io/github/contributors/AdemuyiwaHassan/AdemuyiwaHassan?color=blue"></a>
-    <a href="https://github.com/kazeemmuyideen/kazeemmuyideen/stargazers"><img src="https://img.shields.io/github/stars/AdemuyiwaHassan/AdemuyiwaHassan.svg?logo=github"></a>
-    <a href="https://github.com/kazeemmuyideen/kazeemmuyideen/network/members"><img src="https://img.shields.io/github/forks/AdemuyiwaHassan/AdemuyiwaHassan.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=AdemuyiwaHassan.AdemuyiwaHassan" alt="visitors"/>
+    <a href="https://github.com/kazeemmuyideen/kazeemmuyideen/graphs/contributors"><img src="https://img.shields.io/github/contributors/kazeemmuyideen/kazeemmuyideen?color=blue"></a>
+    <a href="https://github.com/kazeemmuyideen/kazeemmuyideen/stargazers"><img src="https://img.shields.io/github/stars/AdemuyiwaHassan/kazeemmuyideen?logo=github"></a>
+    <a href="https://github.com/kazeemmuyideen/kazeemmuyideen/network/members"><img src="https://img.shields.io/github/forks/kazeemmuyideen/kazeemmuyideen.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=kazeemmuyideen.kazeemmuyideen" alt="visitors"/>
     
 </p>
 
@@ -37,7 +37,7 @@
 
 <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,typescript,jest,mongodb,postgres,git"/>
-     <img src="https://skillicons.dev/icons?i=github,c,vscode,html,css,azure,docker,wordpress,java,springboot,dart,flutter,"/>
+     <img src="https://skillicons.dev/icons?i=github,c,vscode,html,css,azure,docker,wordpress,java,spring,dart,flutter,"/>
 </a>
 </div>
 <hr/>
@@ -52,14 +52,14 @@
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![my github stats](https://github-readme-stats.vercel.app/api?username=AdemuyiwaHassan&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kazeemmuyideen&theme=radical&layout=compact) |
+| ![my github stats](https://github-readme-stats.vercel.app/api?username=kazeemmuyideen&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kazeemmuyideen&theme=radical&layout=compact) |
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazeemmuyideen"></img>
 
 
 <!--
-**AdemuyiwaHassan/AdemuyiwaHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kazeemmuyideen/kazeemmuyideen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
