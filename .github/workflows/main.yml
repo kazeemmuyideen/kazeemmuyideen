@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs automatically every 24 hours
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -17,12 +16,12 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.kazeemmuyideen }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # Reads your private contributions via the PAT secret
+          # ✅ CORRECT: Reference the secret name, NOT the raw token
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Push github-contribution-grid-snake.svg to output branch
@@ -31,4 +30,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
