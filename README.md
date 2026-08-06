@@ -47,8 +47,9 @@
 
 
 <!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/kazeemmuyideen/kazeemmuyideen/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kazeemmuyideen/kazeemmuyideen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
