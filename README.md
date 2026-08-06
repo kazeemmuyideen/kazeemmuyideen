@@ -36,8 +36,11 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/kazeemmuyideen.png" alt="TryHackMe Badge" width="85%">
-    </td>
+<p align="center">
+  <a href="https://tryhackme.com/p/kazeemmuyideen" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kazeemmuyideen.png" alt="TryHackMe Profile Badge" />
+  </a>
+</p>    </td>
   </tr>
 </table>
 
