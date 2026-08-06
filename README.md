@@ -35,12 +35,12 @@
         <li>Focusing on full-stack web development, cross-platform mobile apps, and modern backend architectures.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <!-- <td width="40%" align="center" valign="middle">
 <p align="center">
   <a href="https://tryhackme.com/p/kazeemmuyideen" target="_blank">
     <img src="https://tryhackme.com/p/kazeemmuyideen" alt="TryHackMe Profile Badge" />
   </a>
-</p>    </td>
+</p>    </td> -->
   </tr>
 </table>
 
@@ -67,10 +67,10 @@
 
 <!-- Performance & Metrics -->
 <h3 align="center">📈 GitHub Activity & Stats</h3>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kazeemmuyideen&show_icons=true&theme=github_dark&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazeemmuyideen&layout=compact&theme=github_dark&hide=html,css&cache_seconds=1800" alt="Top Languages" height="150" />
-</div>
+</div> -->
 
 <br/>
 
