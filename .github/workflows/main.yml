@@ -23,7 +23,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           # Reads your private contributions via the PAT secret
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Push github-contribution-grid-snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -31,4 +31,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
