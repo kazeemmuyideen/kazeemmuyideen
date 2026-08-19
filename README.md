@@ -60,7 +60,8 @@
 <!-- Contribution Activity -->
 <h3 align="center">🐍 Contribution Graph</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kazeemmuyideen/kazeemmuyideen/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="100%" />
+  <!-- <img src="https://raw.githubusercontent.com/kazeemmuyideen/kazeemmuyideen/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="100%" /> -->
+  <img src="https://raw.githubusercontent.com/kazeemmuyideen/kazeemmuyideen/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation" />
 </p>
 
 <br/>
