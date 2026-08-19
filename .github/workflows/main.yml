@@ -21,7 +21,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # ✅ CORRECT: Reference the secret name, NOT the raw token
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Push github-contribution-grid-snake.svg to output branch
