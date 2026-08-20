@@ -61,8 +61,11 @@
 <h3 align="center">🐍 Contribution Graph</h3>
 <p align="center">
   <!-- <img src="https://raw.githubusercontent.com/kazeemmuyideen/kazeemmuyideen/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="100%" /> -->
-  <img src="https://raw.githubusercontent.com/kazeemmuyideen/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation" />
+  <!-- <img src="https://raw.githubusercontent.com/kazeemmuyideen/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation" /> -->
 </p>
+<div align="center">
+  <img src="https://github.com/kazeemmuyideen/kazeemmuyideen/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
 
 <br/>
 
