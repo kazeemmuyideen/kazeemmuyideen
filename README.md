@@ -80,5 +80,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazeemmuyideen&theme=github_dark" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.b3n.dev/?user=kazeemmuyideen&theme=github_dark" alt="GitHub Streak" height="150" />
 </div>
