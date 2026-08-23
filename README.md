@@ -70,14 +70,15 @@
 <br/>
 
 <!-- Performance & Metrics -->
+<!-- Performance & Metrics -->
 <h3 align="center">📈 GitHub Activity & Stats</h3>
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazeemmuyideen&show_icons=true&theme=github_dark&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazeemmuyideen&layout=compact&theme=github_dark&hide=html,css&cache_seconds=1800" alt="Top Languages" height="150" />
-</div> -->
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kazeemmuyideen&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kazeemmuyideen&layout=compact&theme=github_dark&hide=html,css" alt="Top Languages" height="150" />
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kazeemmuyideen&theme=github_dark" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazeemmuyideen&theme=github_dark" alt="GitHub Streak" height="150" />
 </div>
